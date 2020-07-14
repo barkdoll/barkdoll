@@ -10,4 +10,4 @@ He is learning how to create front end applications with Elm, and he is dabbling
 
 ### 📬 May I contact Jesse for professional reasons?
 
-If the inquiry is regarding a permanent, full-remote role (thanks COVID 19 for showing us how viable full-remote development can be), he would be more than happy to [discuss it with you on LinkedIn](https://www.linkedin.com/in/jessebarkdoll/).
+If the inquiry is regarding a permanent, full-remote role (thanks COVID-19 for showing us how viable full-remote development can be), he would be more than happy to [discuss it with you on LinkedIn](https://www.linkedin.com/in/jessebarkdoll/).
