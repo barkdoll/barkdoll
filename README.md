@@ -2,7 +2,7 @@
 
 ## 🔎 Who is Jesse?
 
-He is a full-stack software developer working on nifty projects with Axle Informatics in North Bethesda, MD. We work closely with NIH to support their laboratory and research needs through various high-volume data and informatics, as well as web application projects.
+He is a full-stack software developer working on nifty projects with Axle Informatics in North Bethesda, MD. We work closely with NIH to support their laboratory and research needs through various web application projects, often surrounding high-volume data and informatics.
 
 ### 🌳 What is Jesse learning these days?
 
