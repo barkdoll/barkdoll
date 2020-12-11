@@ -1,7 +1,6 @@
 # Jesse Barkdoll
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkdoll&theme=monokai&layout=compact)](https://github.com/barkdoll)
-
+[![Jesse's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkdoll&theme=nord&layout=compact)](https://github.com/barkdoll)
 
 ## 🔎 Who is Jesse?
 
