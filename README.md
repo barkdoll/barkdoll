@@ -4,12 +4,12 @@
 
 ## 🔎 Who is Jesse?
 
-He is a full-stack software developer working on nifty projects with Axle Informatics in North Bethesda, MD. We work closely with NIH to support their laboratory and research needs through various web application projects, often surrounding high-volume data and informatics.
+He is a software engineer building top-notch product at Onebrief.
 
 ### 🌳 What is Jesse learning these days?
 
-He is learning how to create front end applications with Elm, and he is dabbling with C# within the Unity3D space.
+He is deep-diving on React patterns and third-party integrations, and he is learning more about the non-technical aspects of the product lifecycle.
 
 ### 📬 May I contact Jesse for professional reasons?
 
-If the inquiry is regarding a permanent, full-remote role (thanks COVID-19 for showing us how viable full-remote development can be), he would be more than happy to [discuss it with you on LinkedIn](https://www.linkedin.com/in/jessebarkdoll/).
+He would be more than happy to [chat with you on LinkedIn](https://www.linkedin.com/in/jessebarkdoll/).
