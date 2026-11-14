@@ -8,7 +8,7 @@ He is a software engineer building top-notch product at Onebrief.
 
 ### 🌳 What is Jesse learning these days?
 
-He is deep-diving on React patterns and third-party integrations, and he is learning more about the non-technical aspects of the product lifecycle.
+AI tooling and workflows, agent orchestration, applying foundational software design principals and patterns while building in LLM-powered engineering spaces. 
 
 ### 📬 May I contact Jesse for professional reasons?
 
